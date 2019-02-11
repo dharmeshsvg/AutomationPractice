@@ -3,7 +3,7 @@
 <suite name="Automation Practice Framework">
   <test name="Simple Test Suite">
     <classes>
-      <class name="com.dharmesh.testScripts.TestSuit1"/>
+      <class name="com.dharmesh.testScripts.FlightBookingDemo.FlightBookingTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

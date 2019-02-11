@@ -42,6 +42,10 @@ public class TestBase extends Utills{
 		FI = new FileInputStream(f);
 		Repository.load(FI);
 
+		f = new File(System.getProperty("user.dir")+"\\src\\com\\dharmesh\\testLocators\\fhome.properties");
+		FI = new FileInputStream(f);
+		Repository.load(FI);
+
 
 	}
 	
